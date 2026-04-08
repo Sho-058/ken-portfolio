@@ -1402,6 +1402,8 @@ ul { list-style: none; }
 
   /* Footer */
   .footer { padding: 32px 20px 32px; }
+  .footer-cta { font-size: 40px; }
+  .footer-sub { font-size: 16px; margin-top: 4px; }
   .footer-contacts {
     flex-direction: column;
     gap: 14px;
@@ -1410,8 +1412,6 @@ ul { list-style: none; }
     padding-top: 28px;
     max-width: 100%;
   }
-  .footer-cta { font-size: 48px; }
-  .footer-sub { font-size: 17px; margin-top: 4px; }
   .footer-contact-item { font-size: 14px; gap: 8px; }
   .footer-copy { font-size: 12px; margin-top: 32px; }
 
